@@ -74,18 +74,26 @@ h1 {
 
 .p1 {
   font-family: "Monsterrat", "sans-serif";
-  font-size: 17px;
-  margin-top: 3%;
+  font-size: 18px;
+  margin-top: 2%;
 }
 
 .p2 {
   font-family: "Monsterrat", "sans-serif";
-  font-size: 17px;
-  margin-top: 3%;
+  font-size: 18px;
+  margin-top: 2%;
 }
 
 .p3 {
   font-family: "Monsterrat", "sans-serif";
   font-size: 24px;
   color: black;
+}
+
+.highlight-word-color {
+  color: #2ddc9b;
+}
+
+.highlight-word2-color {
+  color: #2ddc9b;
 }
