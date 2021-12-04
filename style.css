@@ -82,6 +82,7 @@ h1 {
   font-family: "Monsterrat", "sans-serif";
   font-size: 18px;
   margin-top: 2%;
+  text-justify: auto;
 }
 
 .p3 {
