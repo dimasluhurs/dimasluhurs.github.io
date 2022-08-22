@@ -4,7 +4,7 @@ body {
 
 .home {
   padding-top: 12rem;
-  background-color: #f1f5f1;
+  background-color: #f4f6fa;
   /* position: relative;
   background: #000 url("img/portfolio/7.jpg") center center;
   width: 100%;
@@ -14,7 +14,7 @@ body {
 }
 
 #portfolio {
-  background-color: #f1f5f1;
+  background-color: #f4f6fa;
 }
 
 /* #experience {
@@ -92,9 +92,15 @@ h1 {
 }
 
 .highlight-word-color {
-  color: #2ddc9b;
+  color: #065c58;
 }
 
 .highlight-word2-color {
-  color: #2ddc9b;
+  color: #065c58;
+}
+.highlight-word3-color {
+  color: #23b7a0;
+}
+.highlight-word4-color {
+  color: #3d8bb7;
 }
